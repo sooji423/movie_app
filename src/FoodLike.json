@@ -1,0 +1,33 @@
+const foodLike = [
+  {
+    id: 1,
+    name: 'macaron1',
+    image: 'https://i.pinimg.com/236x/82/18/a4/8218a40cf4b9a575878a4c864dbbcc68.jpg',
+    rating: 5,
+  },
+  {
+    id: 2,
+    name: 'macaron2',
+    image: 'https://i.pinimg.com/236x/0f/85/0c/0f850c4ea23a6060ffdab4a5d9ea873f.jpg',
+    rating: 4.9,
+  },
+  {
+    id: 3,
+    name: 'macaron3',
+    image: 'https://i.pinimg.com/236x/c7/d1/df/c7d1dfb896cbe25abe7c4f132d9c3273.jpg',
+    rating: 4.7,
+  },
+  {
+    id: 4,
+    name: 'macaron4',
+    image: 'https://i.pinimg.com/236x/60/ad/7d/60ad7dde9b3a912b6153f02d1c0c328e.jpg',
+    rating: 5,
+  },
+  {
+    id: 5,
+    name: 'macaron5',
+    image: 'https://i.pinimg.com/236x/a7/7d/47/a77d47b2259180676c2663922fd2cb87.jpg',
+    rating: 4.1,
+  }
+
+];
