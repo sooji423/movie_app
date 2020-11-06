@@ -3,7 +3,16 @@
 # dependencies
 /node_modules
 /.pnp
+/script
+/수업1
+/수업2
+/수업3
+/수업4
+/수업5
+/수업6
+/영화앱 준비
 .pnp.js
+
 
 # testing
 /coverage
